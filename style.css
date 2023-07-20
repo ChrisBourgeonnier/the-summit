@@ -1,5 +1,5 @@
 header p {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: monospace;
   margin: 0 0;
   padding: 12px;
   box-sizing: content-box;
@@ -12,7 +12,7 @@ header p {
   width: 100%;
   z-index: 999;
   line-height: 1;
-  font-size: 95%;
+  font-size: 1em;
 }
 
 a {
